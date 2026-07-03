@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 2rem 0;
   min-height: 100vh;
-  background: #01032b;
+  background: #830707;
   position: relative;
   font-family: sans-serif;
 }
@@ -13,7 +13,7 @@ body::after {
   top: 0;
   width: 80px;
   height: 100%;
-  background: #940606;
+  background: #e07676;
   z-index: -1;
 }
 body::before {
