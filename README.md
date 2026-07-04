@@ -1,7 +1,7 @@
 # Interstellar 🧑‍🚀🚀🌑
 
 ## Description 📌
-This is a website i built following stardance mission 'Give your website a pulse' Guide. It required HTML,CSS,JavaScript and NASA API. It is a website that give you a space pictures and explanation for any date you pi using live information from NASA API
+This is a website i built following stardance mission 'Give your website a pulse' Guide. It required HTML,CSS,JavaScript and NASA API. It is a website that give you a space pictures and explanation for any date you pick using live information from NASA API
 
 ## Features ✅
 - Fully deployed website (not just localhost)
